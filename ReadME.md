@@ -1,4 +1,4 @@
-Horiseon, a social service solutions company target to optimize your search engines, increase your only reputation, and improve social media marketing.
+Horiseon, a social service solutions company target to optimize your search engines, increase your online reputation, and improve social media marketing.
 
 https://eransom1.github.io/Horiseon-Webpage/
 
